@@ -1,1 +1,1 @@
-# titanic.app
+# titanic_app
